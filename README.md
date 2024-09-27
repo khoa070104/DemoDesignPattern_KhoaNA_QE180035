@@ -1,0 +1,1 @@
+# DemoDesignPattern_KhoaNA_QE180035
