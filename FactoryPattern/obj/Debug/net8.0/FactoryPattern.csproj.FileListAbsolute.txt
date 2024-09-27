@@ -1,0 +1,11 @@
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+E:\Documents\CSharpForBeginner\DemoDesignPattern\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll

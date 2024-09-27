@@ -1,0 +1,11 @@
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.deps.json
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.pdb
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfoInputs.cache
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfo.cs
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.csproj.CoreCompileInputs.cache
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\refint\PrototypePattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.pdb
+E:\Documents\CSharpForBeginner\DemoDesignPattern\PrototypePattern\obj\Debug\net8.0\ref\PrototypePattern.dll

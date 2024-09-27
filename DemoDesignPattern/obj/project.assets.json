@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AbsFacPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AbsFacPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbsFacPattern.dll": {}
+        }
+      },
+      "FactoryPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FactoryPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryPattern.dll": {}
+        }
+      },
+      "PrototypePattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PrototypePattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrototypePattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbsFacPattern/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFactoryPattern/AbsFacPattern.csproj",
+      "msbuildProject": "../AbstractFactoryPattern/AbsFacPattern.csproj"
+    },
+    "FactoryPattern/1.0.0": {
+      "type": "project",
+      "path": "../FactoryPattern/FactoryPattern.csproj",
+      "msbuildProject": "../FactoryPattern/FactoryPattern.csproj"
+    },
+    "PrototypePattern/1.0.0": {
+      "type": "project",
+      "path": "../PrototypePattern/PrototypePattern.csproj",
+      "msbuildProject": "../PrototypePattern/PrototypePattern.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AbsFacPattern >= 1.0.0",
+      "FactoryPattern >= 1.0.0",
+      "PrototypePattern >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Khoa Bug\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\DemoDesignPattern\\DemoDesignPattern.csproj",
+      "projectName": "DemoDesignPattern",
+      "projectPath": "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\DemoDesignPattern\\DemoDesignPattern.csproj",
+      "packagesPath": "C:\\Users\\Khoa Bug\\.nuget\\packages\\",
+      "outputPath": "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\DemoDesignPattern\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Khoa Bug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\AbstractFactoryPattern\\AbsFacPattern.csproj": {
+              "projectPath": "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\AbstractFactoryPattern\\AbsFacPattern.csproj"
+            },
+            "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\FactoryPattern\\FactoryPattern.csproj": {
+              "projectPath": "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\FactoryPattern\\FactoryPattern.csproj"
+            },
+            "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\PrototypePattern\\PrototypePattern.csproj": {
+              "projectPath": "E:\\Documents\\CSharpForBeginner\\DemoDesignPattern\\PrototypePattern\\PrototypePattern.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

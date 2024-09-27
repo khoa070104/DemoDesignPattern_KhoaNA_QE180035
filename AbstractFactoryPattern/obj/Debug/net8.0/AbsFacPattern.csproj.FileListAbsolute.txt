@@ -1,0 +1,11 @@
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbsFacPattern.deps.json
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbsFacPattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\bin\Debug\net8.0\AbsFacPattern.pdb
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbsFacPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbsFacPattern.AssemblyInfoInputs.cache
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbsFacPattern.AssemblyInfo.cs
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbsFacPattern.csproj.CoreCompileInputs.cache
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbsFacPattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\refint\AbsFacPattern.dll
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\AbsFacPattern.pdb
+E:\Documents\CSharpForBeginner\DemoDesignPattern\AbstractFactoryPattern\obj\Debug\net8.0\ref\AbsFacPattern.dll
